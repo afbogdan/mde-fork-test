@@ -11,6 +11,9 @@ header {
   margin-bottom: 100px;
 }
 
+.ola {
+  color: blue;
+}
 
 .martin-m {
   background-color: aqua;
@@ -42,4 +45,3 @@ header {
   color:rgb(66, 221, 248);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 } 
-
