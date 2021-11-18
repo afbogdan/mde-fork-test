@@ -10,3 +10,9 @@ body {
 header {
   margin-bottom: 100px;
 }
+
+.reinis {
+  background-color: yellowgreen;
+  font-weight: bold;
+  width: max-content;
+}
