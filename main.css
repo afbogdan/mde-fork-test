@@ -11,6 +11,11 @@ header {
   margin-bottom: 100px;
 }
 
+
+.thun {
+  color: palevioletred;
+}
+
 .veronika{
   background-color: rgb(80, 114, 177);
 }
@@ -54,5 +59,3 @@ header {
   color:rgb(66, 221, 248);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 } 
-
-
