@@ -10,3 +10,9 @@ body {
 header {
   margin-bottom: 100px;
 }
+
+.tomi {
+  color: blue;
+  background-color: black;
+  font-size: 19px;
+}
