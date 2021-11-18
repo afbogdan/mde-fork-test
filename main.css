@@ -11,6 +11,13 @@ header {
   margin-bottom: 100px;
 }
 
+
+.tomi {
+  color: white;
+  background-color: black;
+  font-size: 19px;
+}
+
 .kamen {
   color: darkgreen;
 }
@@ -31,3 +38,4 @@ header {
   color:rgb(66, 221, 248);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 } 
+
