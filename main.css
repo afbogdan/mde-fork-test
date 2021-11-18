@@ -11,6 +11,9 @@ header {
   margin-bottom: 100px;
 }
 
+.veronika{
+  background-color: rgb(80, 114, 177);
+}
 
 .valters {
   font-size: 50px;
@@ -51,4 +54,5 @@ header {
   color:rgb(66, 221, 248);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 } 
+
 
