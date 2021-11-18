@@ -12,6 +12,12 @@ header {
   margin-bottom: 100px;
 }
 
+
+.daniela {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: plum;
+}
+
 .luigi {
   font-family: sans-serif;
   color: darkblue;
@@ -113,3 +119,4 @@ header {
   color:rgb(66, 221, 248);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 } 
+
