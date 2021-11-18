@@ -15,3 +15,15 @@ header {
   font-weight: bold;
   color: blueviolet;
 }
+
+.reinis {
+  background-color: yellowgreen;
+  font-weight: bold;
+  width: max-content;
+}
+
+.marek{
+  font-size: 30px;
+  color:rgb(66, 221, 248);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
