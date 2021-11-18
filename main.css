@@ -1,3 +1,7 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
 
 body {
@@ -8,7 +12,6 @@ body {
 header {
   margin-bottom: 100px;
 }
-
 
 .cornelia {
   color:rgb(30, 85, 85);
