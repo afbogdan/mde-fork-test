@@ -12,6 +12,10 @@ header {
   margin-bottom: 100px;
 }
 
+.B {
+  font-size: 36px;
+  color: blueviolet;
+}
 
 .daniela {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -119,4 +123,3 @@ header {
   color:rgb(66, 221, 248);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 } 
-
