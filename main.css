@@ -11,6 +11,12 @@ header {
   margin-bottom: 100px;
 }
 
+.veronikam {
+  background-color: pink;
+  color: darkblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-bottom: dotted 2px black;
+}
 
 .thun {
   color: palevioletred;
