@@ -12,6 +12,16 @@ header {
 }
 
 
+.lilla {
+  font-size: large;
+  color: beige;
+  background-color: blueviolet;
+  padding: 20px;
+  border-radius: 30px;
+  border-style: dotted;
+  border-color: beige;
+}
+
 .martina {
   color: rgb(233, 218, 3);
 }
