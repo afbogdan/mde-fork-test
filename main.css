@@ -10,3 +10,8 @@ body {
 header {
   margin-bottom: 100px;
 }
+.marek{
+  font-size: 30px;
+  color:rgb(66, 221, 248);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
