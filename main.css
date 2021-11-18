@@ -14,3 +14,45 @@ header {
 .veronika{
   background-color: rgb(80, 114, 177);
 }
+
+.valters {
+  font-size: 50px;
+  color: blueviolet;
+}
+
+.ola {
+  color: blue;
+}
+
+.martin-m {
+  background-color: aqua;
+}
+
+.tomi {
+  color: white;
+  background-color: black;
+  font-size: 19px;
+}
+
+.kamen {
+  color: darkgreen;
+}
+
+.martyna {
+  font-weight: bold;
+  color: blueviolet;
+}
+
+.reinis {
+  background-color: yellowgreen;
+  font-weight: bold;
+  width: max-content;
+}
+
+.marek{
+  font-size: 30px;
+  color:rgb(66, 221, 248);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
+
+
