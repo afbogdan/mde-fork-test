@@ -11,6 +11,7 @@ header {
   margin-bottom: 100px;
 }
 
+
 .lilla {
   font-size: large;
   color: beige;
@@ -20,3 +21,62 @@ header {
   border-style: dotted;
   border-color: beige;
 }
+
+.martina {
+  color: rgb(233, 218, 3);
+}
+
+.veronikam {
+  background-color: pink;
+  color: darkblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-bottom: dotted 2px black;
+}
+
+.thun {
+  color: palevioletred;
+}
+
+.veronika{
+  background-color: rgb(80, 114, 177);
+}
+
+.valters {
+  font-size: 50px;
+  color: blueviolet;
+}
+
+.ola {
+  color: blue;
+}
+
+.martin-m {
+  background-color: aqua;
+}
+
+.tomi {
+  color: white;
+  background-color: black;
+  font-size: 19px;
+}
+
+.kamen {
+  color: darkgreen;
+}
+
+.martyna {
+  font-weight: bold;
+  color: blueviolet;
+}
+
+.reinis {
+  background-color: yellowgreen;
+  font-weight: bold;
+  width: max-content;
+}
+
+.marek{
+  font-size: 30px;
+  color:rgb(66, 221, 248);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
