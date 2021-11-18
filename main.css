@@ -12,6 +12,19 @@ header {
   margin-bottom: 100px;
 }
 
+.luigi {
+  font-family: sans-serif;
+  color: darkblue;
+  transition-timing-function: ease;
+  transition: 1s;
+  width: fit-content;
+}
+
+.luigi:hover {
+  font-size: 1.2rem;
+  transition-duration: 0.5s;
+  background-color: darkgrey;
+}
 
 .diana {
   font-family: Arial, Helvetica, sans-serif;
