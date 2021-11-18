@@ -10,3 +10,8 @@ body {
 header {
   margin-bottom: 100px;
 }
+
+.valters {
+  font-size: 50px;
+  color: blueviolet;
+}
